@@ -10,7 +10,7 @@ The Task
 This was a mini project at General Assembly to make a picture across the screen.
 I got a little bit carried away and came up with something cool
 
-[Chase The Cat](https://darrylcohen.github.io/dot_to_dot/)
+[Chase The Cat](https://darrylcohen.github.io/chase_the_cat/)
 
 [Please visit my web site](https://www.darrylcohen.com.au)
 
